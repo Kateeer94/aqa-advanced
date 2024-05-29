@@ -5,6 +5,3 @@ const value = 0;
 const sumOfArrayElements = array.reduce((accumulator, currentValue) => accumulator + currentValue, value,);
 
 console.log(sumOfArrayElements)
-
-
-
