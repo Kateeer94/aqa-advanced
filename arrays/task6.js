@@ -6,21 +6,3 @@ numbersList.sort((a, b) => a - b);
 
 console.log(newArray)
 console.log(numbersList)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
