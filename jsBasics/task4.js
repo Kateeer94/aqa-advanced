@@ -15,4 +15,4 @@ console.log("The area of the rectangle is " + rectangleArea.toFixed(2));
 let cylinderRadius = 3;
 let cylinderHeight = 5;
 let cylinderVolume = Math.PI * (cylinderRadius ** 2) * cylinderHeight;
-console.log("The volume of the cylinder is " + cylinderVolume.toFixed(2))
+console.log("The volume of the cylinder is " + cylinderVolume.toFixed(2));
